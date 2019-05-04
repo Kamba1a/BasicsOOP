@@ -1,0 +1,7 @@
+D:\users\kam\source\repos\BasicsOOP\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\users\kam\source\repos\BasicsOOP\SnakeGame\bin\Debug\SnakeGame.exe
+D:\users\kam\source\repos\BasicsOOP\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\users\kam\source\repos\BasicsOOP\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
+D:\users\kam\source\repos\BasicsOOP\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+D:\users\kam\source\repos\BasicsOOP\SnakeGame\obj\Debug\SnakeGame.exe
+D:\users\kam\source\repos\BasicsOOP\SnakeGame\obj\Debug\SnakeGame.pdb
